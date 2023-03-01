@@ -7,7 +7,7 @@ ms.date: 6/24/2022
 ms.author: bezhan
 ---
 
-# SingleStore (Beta)
+# SingleStore
 
 > [!NOTE]
 > The following connector article is provided by SingleStore, the owner of this connector and a member of the Microsoft Power Query Connector Certification Program. If you have questions regarding the content of this article or have changes you would like to see made to this article, visit the SingleStore website and use the support channels there.
@@ -16,7 +16,7 @@ ms.author: bezhan
 
 | Item | Description
 |--|--|
-| Release State | Beta |
+| Release State | General Availability |
 | Products | Power BI (Datasets)<br/>Power BI (Dataflows) |
 | Authentication Types Supported | Basic<br/>Windows |
 
